@@ -1,2 +1,2 @@
 # test-for-github-web
-This is not a test.
+This is only a test.
